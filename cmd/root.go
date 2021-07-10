@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"fmt"
+	"github.com/qiaocco/nbnhhsh-go/lib"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"nbnhhsh-go/lib"
 	"os"
 )
 

@@ -1,6 +1,6 @@
 package main
 
-import "nbnhhsh-go/cmd"
+import "github.com/qiaocco/nbnhhsh-go/cmd"
 
 func main() {
 	cmd.Execute()
