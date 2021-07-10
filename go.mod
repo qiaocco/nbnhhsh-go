@@ -1,4 +1,4 @@
-module nbnhhsh-go
+module github.com/qiaocco/nbnhhsh-go
 
 go 1.16
 
