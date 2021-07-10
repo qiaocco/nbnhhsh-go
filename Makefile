@@ -1,6 +1,6 @@
 # Binary name
 BINARY=hhsh
-VERSION=v0.0.2
+VERSION=v0.0.3
 
 # Builds the project
 build:
