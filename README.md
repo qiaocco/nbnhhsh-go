@@ -6,6 +6,7 @@
 
 ```bash
 go install github.com/qiaocco/nbnhhsh-go@latest
+mv $GOPATH/bin/nbnhhsh-go $GOPATH/bin/hhsh
 ```
 
 #### 手动安装
@@ -17,13 +18,13 @@ go install github.com/qiaocco/nbnhhsh-go@latest
 
 ```shell
 
-nbnhhsh-go "s姐yyds, alal"
+hhsh "s姐yyds, alal"
 
 ```
 
-![image](https://user-images.githubusercontent.com/25075484/125168515-7a8a4680-e1d8-11eb-9951-6494b2509911.png)
+![image](https://user-images.githubusercontent.com/25075484/125169209-b2df5400-e1db-11eb-8762-32173b5553b4.png)
 
 参考：
 - [@itorr](https://github.com/itorr) 的[能不能好好说话？](https://github.com/itorr/nbnhhsh)
 - [@yihong](https://github.com/yihong0618) 的[「能不能好好说话？」的CLI版本](https://github.com/yihong0618/nbnhhsh-cli)
-- [@Timothy](https://github.com/TimothyYe) 的[「能不能好好说话？」的CLI版本](https://github.com/TimothyYe/ydict)
+- [@Timothy](https://github.com/TimothyYe) 的[command-line youdao dictionary](https://github.com/TimothyYe/ydict)
